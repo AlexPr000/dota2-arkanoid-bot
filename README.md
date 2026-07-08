@@ -2,7 +2,8 @@
 
 ## Демонстрация работы
 
-![Uploading KMPlayer64_xAZuF31lOa.gif…]()
+<img width="442" height="741" alt="KMPlayer64_xAZuF31lOa" src="https://github.com/user-attachments/assets/86ac786c-5b31-4c09-923f-fa54ba87f08a" />
+
 
 
 
