@@ -2,7 +2,8 @@
 
 ## Демонстрация работы
 
-![Uploading testbot1 (2).gif…]()
+![Uploading testbot1.gif…]()
+
 
 
 
