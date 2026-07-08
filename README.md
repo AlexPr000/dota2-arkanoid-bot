@@ -2,7 +2,8 @@
 
 ## Демонстрация работы
 
-![Uploading KMPlayer64_VOLYyByqum.gif…]()
+![Uploading KMPlayer64_xAZuF31lOa.gif…]()
+
 
 
 
