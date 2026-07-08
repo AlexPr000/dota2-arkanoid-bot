@@ -1,6 +1,9 @@
+
+
 ## Демонстрация работы
 
-<img width="166" height="294" alt="testbot" src="https://github.com/user-attachments/assets/f8251c95-31f1-4f1f-a7be-8a34678429f1" />
+![Uploading testbot1 (2).gif…]()
+
 
 
 
